@@ -1,0 +1,8 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: typhiaxsite/node:lastes-alpine
+    steps:
+      - checkout
+      - run: echo "Pruebas de Hola Mundo"
