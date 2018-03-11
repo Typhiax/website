@@ -1,2 +1,2 @@
 # website
-Portal de Typiax
+Portal de Typhiax
